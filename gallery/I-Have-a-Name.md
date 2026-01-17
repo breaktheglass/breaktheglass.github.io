@@ -39,7 +39,7 @@ You wished to be<br>
 A child's laugh<br>
 A sky so deep<br>
 A mother's love<br>
-A storm so free<i><br>
+A storm so free</i><br>
 </p>  
 
 
@@ -79,5 +79,5 @@ A life to spend</i><br>
 <i>Now look north<br>
 Not far away<br>
 I am no seed<br>
-I have a name<i><br>
+I have a name</i><br>
 </p>  
