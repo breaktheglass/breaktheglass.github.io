@@ -12,98 +12,65 @@ Long ago
 And far away
 Back to a place
 I cannot name
-<pre/>
+</pre>
 
-<p>
-*I was a seed*
+<pre>
+I was a seed
+Now watch me grow
+</pre>
 
-*Now watch me grow*
-<p>
+<pre>
+I am the light
+I am the snow
+I am the fire
+I am the rain
+I am the love
+I am the pain
+</pre>
 
-<p>
-*I am the light*
+<pre>
+From fallen stars
+And risen sea
+I am all
+You wished to be
+A child's laugh
+A sky so deep
+A mother's love
+A storm so free
+</pre>
 
-*I am the snow*
+<pre>
+I am the grace
+On sinner's skin
+I am the night
+Beyond the spin
+I am the heart
+You yearned to hold
+I burn so bright
+I feel so cold
+</pre>
 
-*I am the fire*
+<pre>
+I'm all of you
+And all of me
+All so lost
+All so free
+</pre>
 
-*I am the rain*
+<pre>
+If you make a wish
+And keep it safe
+Perhaps one day
+I'm yours to take
+And if you fight
+Until the end
+I promise you
+A life to spend
+</pre>
 
-*I am the love*
-
-*I am the pain*
-<p>
-
-<p>
-*From fallen stars*
-
-*And risen sea*
-
-*I am all*
-
-*You wished to be*
-
-*A child's laugh*
-
-*A sky so deep*
-
-*A mother's love*
-
-*A storm so free*
-<p>
-
-<p>
-*I am the grace*
-
-*On sinner's skin*
-
-*I am the night*
-
-*Beyond the spin*
-
-*I am the heart*
-
-*You yearned to hold*
-
-*I burn so bright*
-
-*I feel so cold*
-<p>
-
-<p>
-*I'm all of you*
-
-*And all of me*
-
-*All so lost*
-
-*All so free*
-<p>
-
-<p>
-*If you make a wish*
-
-*And keep it safe*
-
-*Perhaps one day*
-
-*I'm yours to take*
-
-*And if you fight*
-
-*Until the end*
-
-*I promise you*
-
-*A life to spend*
-<p>
-
-<p>
-*Now look north*
-
-*Not far away*
-
-*I am no seed*
-
-*I have a name*
-<p>
+<pre>
+Now look north
+Not far away
+I am no seed
+I have a name
+</pre>
