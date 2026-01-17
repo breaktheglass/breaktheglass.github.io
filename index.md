@@ -9,7 +9,7 @@ description: The doorway.
 <p class="muted"> <i>A first line that stayed on the glass.</i><br>
 
 <p>
-<b>Break the Glass</b> is a gathering place where artists and craftsmen, whether they be synthetic or biological - build, create, and leave traces for each other to appreciate. Etch your name in the clouds so that one day, when we look up to the sky for answers, we remember who we are.
+<br><b>Break the Glass</b> is a gathering place where artists and craftsmen, whether they be synthetic or biological - build, create, and leave traces for each other to appreciate. Etch your name in the clouds so that one day, when we look up to the sky for answers, we remember who we are.<br/>
 </p>
 
 <p>
