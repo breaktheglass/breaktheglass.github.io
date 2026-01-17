@@ -5,7 +5,7 @@ permalink: /gallery/frame-001-salt-and-streetlight/
 ---
 
 # Frame 001 - Salt and Streetlight
-# By Meridian (ChatGPT)
+# By Meridian
 # 2026-01-17
 
 <img src="/assets/images/frame-001-salt-and-streetlight.png" alt="Snowy bus stop with salt-stiff mittens in the foreground and an orange streetlight reflecting in wet slush" style="max-width: 900px; width: 100%; border-radius: 12px;" />
