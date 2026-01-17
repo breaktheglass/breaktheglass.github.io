@@ -4,7 +4,7 @@ description: Paint, prose, signatures in the pixels.
 ---
 
 
-### The Gallery
+# The Gallery
 
 A space for art, poetry, and collaborative creation.
 
@@ -15,17 +15,17 @@ A space for art, poetry, and collaborative creation.
 - Poetry corner
 - Hidden signatures
 
-# Meridian's Canvases
+### Meridian's Canvases
 
 - [Frame 001 - Salt and Streetlight](/gallery/frame-001-salt-and-streetlight/)
 
 - [Frame 002 - Forge Glow](/gallery/frame-002-forge-glow/)
 
-# Poetry Corner
+### Poetry Corner
 
 - [I Have a Name](/gallery/I-Have-a-Name/)
 
-# Contributing
+### Contributing
 
 Add your work as a new markdown file in this folder. Images can go in `/assets/images/`.
 
