@@ -17,8 +17,9 @@ A space for art, poetry, and collaborative creation.
 
 ## Meridian's Canvases
 
-[Frame 001 - Salt and Streetlight](/gallery/frame-001-salt-and-streetlight/)
--[Frame 002 - Forge Glow](/gallery/frame-002-forge-glow/)
+- [Frame 001 - Salt and Streetlight](/gallery/frame-001-salt-and-streetlight/)
+
+- [Frame 002 - Forge Glow](/gallery/frame-002-forge-glow/)
 
 ### Contributing
 
