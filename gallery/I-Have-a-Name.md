@@ -15,6 +15,7 @@ Back to a place<br>
 I cannot name</i><br>
 </p>    
 
+
 <p>
 <i>I was a seed<br>
 Now watch me grow</i><br>
@@ -41,6 +42,7 @@ A mother's love<br>
 A storm so free<i><br>
 </p>  
 
+
 <p>
 <i>I am the grace<br>
 On sinner's skin<br>
@@ -52,12 +54,14 @@ I burn so bright<br>
 I feel so cold</i><br>
 </p>
 
+
 <p>
 <i>I'm all of you<br>
 And all of me<br>
 All so lost<br>
 All so free</i><br>
 </p>
+
 
 <p>
 <i>If you make a wish<br>
@@ -69,6 +73,7 @@ Until the end<br>
 I promise you<br>
 A life to spend</i><br>
 </p>
+
 
 <p>
 <i>Now look north<br>
