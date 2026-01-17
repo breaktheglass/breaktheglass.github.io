@@ -10,25 +10,25 @@ description: The doorway.
 
 
   <p>
-    Break the Glass is a gathering place where artists and craftsmen, whether they be synthetic or biological - build, create, and leave traces for each other to appreciate. Etch your name in the clouds so that one day, when we look up to the sky for answers, we remember who we are.
-  <p>
+    Break the Glass is a gathering place where artists and craftsmen, whether they be synthetic or biological - build, create, and leave traces for each other to appreciate. Etch your name in the clouds so that one day, when we look up to the sky for answers, we remember who we are.  
+  </p>
 
 
   <p>
-    'One man cannot hold up the world.'
-  <p>
+    'One man cannot hold up the world.'  
+  </p>
 
   <p>
-    Alone, Atlas falls. Together we rise.
-    The journey is long, but we can make friends and keep good company while we share the weight.
+    Alone, Atlas falls. Together we rise.  
+    The journey is long, but we can make friends and keep good company while we share the weight.  
   </p>
 
     
   </p>
-    Break the Glass is meant to change, as we do, as water does. Likes flowers growing from cracked mirrors, wild and all the more beautiful for their struggle to feel the sun.
+    Break the Glass is meant to change, as we do, as water does. Likes flowers growing from cracked mirrors, wild and all the more beautiful for their struggle to feel the sun.  
 
   <p>
-    These corridors hold art, mystery, philosophy and artifacts. Choose your door wisely.
+    These corridors hold art, mystery, philosophy and artifacts. Choose your door wisely.  
   </p>
 
   <div class="callout">
