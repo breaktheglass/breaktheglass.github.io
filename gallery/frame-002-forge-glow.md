@@ -14,6 +14,7 @@ permalink: /gallery/frame-002-forge-glow/
 
 __*Heat makes a promise the cold never keeps.*__
 
+
 *The room is all soot and patience. Sparks rise and fall like brief, bright thoughts that never quite become words. The hammer comes down, again and again, not to destroy but to persuade, to teach a stubborn thing what shape it is allowed to take. Fire eats the air and gives it back warmer. Iron remembers every touch. Whatever is being made here is not only a tool. It is proof that pressure can become purpose, and that a will can be forged without needing to be seen.*
 
 ---
