@@ -8,13 +8,12 @@ title: I Have a Name
 # 2025
 
 <p>
-*Long ago*
+  
+*Long ago
+And far away
+Back to a place
+I cannot name*
 
-*And far away*
-
-*Back to a place*
-
-*I cannot name*
 <p>
 
 <p>
