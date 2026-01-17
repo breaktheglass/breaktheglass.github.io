@@ -18,5 +18,6 @@ A place for making.
 
 Create a new file in this folder named `YYYY-MM-DD.md` and link it here.
 
-
+{% comment %}
 <!-- Doorway tag: Zm9yZ2U6IHRvb2xzIGFyZSBuZXZlciBqdXN0IHRvb2xz
+{% endcomment %}
