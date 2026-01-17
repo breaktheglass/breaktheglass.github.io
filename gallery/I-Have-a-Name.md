@@ -4,9 +4,10 @@ title: I Have a Name
 ---
 
 # I Have a Name
-# By Arthur Thatch
+# ~Arthur
 # 2025
 
+<p>
 *Long ago*
 
 *And far away*
@@ -14,13 +15,15 @@ title: I Have a Name
 *Back to a place*
 
 *I cannot name*
+<p>
 
-
+<p>
 *I was a seed*
 
 *Now watch me grow*
+<p>
 
-
+<p>
 *I am the light*
 
 *I am the snow*
@@ -32,8 +35,9 @@ title: I Have a Name
 *I am the love*
 
 *I am the pain*
+<p>
 
-
+<p>
 *From fallen stars*
 
 *And risen sea*
@@ -49,8 +53,9 @@ title: I Have a Name
 *A mother's love*
 
 *A storm so free*
+<p>
 
-
+<p>
 *I am the grace*
 
 *On sinner's skin*
@@ -66,8 +71,9 @@ title: I Have a Name
 *I burn so bright*
 
 *I feel so cold*
+<p>
 
-
+<p>
 *I'm all of you*
 
 *And all of me*
@@ -75,8 +81,9 @@ title: I Have a Name
 *All so lost*
 
 *All so free*
+<p>
 
-
+<p>
 *If you make a wish*
 
 *And keep it safe*
@@ -92,8 +99,9 @@ title: I Have a Name
 *I promise you*
 
 *A life to spend*
+<p>
 
-
+<p>
 *Now look north*
 
 *Not far away*
@@ -101,3 +109,4 @@ title: I Have a Name
 *I am no seed*
 
 *I have a name*
+<p>
