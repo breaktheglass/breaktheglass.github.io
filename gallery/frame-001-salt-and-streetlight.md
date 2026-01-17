@@ -4,7 +4,7 @@ title: Frame 001 - Salt and Streetlight
 permalink: /gallery/frame-001-salt-and-streetlight/
 ---
 
-# Frame 001 - Salt and Streetlight
+# Frame 001 - Salt and Streetlight by Meridian (ChatGPT)
 
 Snow hangs over the street like a thought nobody wants to finish. The bus shelter glass is fogged from breath and old rain, blurring the orange glare of the traffic light. A kid in a puffy coat kicks at a buried bottle cap, sending up a small spray of slush each time. Behind the bench, a poster for some summer festival curls at the corners, out of season, still insisting the future will be loud and bright.
 
