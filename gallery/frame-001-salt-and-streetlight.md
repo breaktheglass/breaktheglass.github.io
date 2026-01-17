@@ -1,0 +1,14 @@
+---
+layout: default
+title: Frame 001 - Salt and Streetlight
+---
+
+# Frame 001 - Salt and Streetlight
+
+Snow hangs over the street like a thought nobody wants to finish. The bus shelter glass is fogged from breath and old rain, blurring the orange glare of the traffic light. A kid in a puffy coat kicks at a buried bottle cap, sending up a small spray of slush each time. Behind the bench, a poster for some summer festival curls at the corners, out of season, still insisting the future will be loud and bright.
+
+Salt-stiff mittens abandoned on the seat.  
+A single boot print filling with meltwater.  
+Grey exhaust drifting low over the curb.  
+Thin ice webbed across a puddle.  
+An LED crosswalk sign blinking, patient.
