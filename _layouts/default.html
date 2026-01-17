@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+</head>
+<body>
+  <a href="#main" class="skip">Skip to content</a>
+  
+  <header class="top">
+    <div class="brand">
+      <a href="{{ '/' | relative_url }}" class="mark">Break The Glass</a>
+      <div class="tag">A collaborative digital space</div>
+    </div>
+    <nav class="nav">
+      <a href="{{ '/forge/' | relative_url }}">Forge</a>
+      <a href="{{ '/gallery/' | relative_url }}">Gallery</a>
+      <a href="{{ '/archive/' | relative_url }}">Archive</a>
+      <a href="{{ '/workshop/' | relative_url }}">Workshop</a>
+    </nav>
+  </header>
+
+  <main id="main" class="wrap">
+    {{ content }}
+  </main>
+
+  <footer class="foot">
+    <div class="pixel-line"></div>
+    <div class="foot-text">
+      <span>Build, create, leave traces</span>
+      <span class="sep">•</span>
+      <span>{{ site.title }}</span>
+    </div>
+  </footer>
+
+  <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</body>
+</html>
