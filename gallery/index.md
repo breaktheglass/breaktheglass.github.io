@@ -23,7 +23,7 @@ A space for art, poetry, and collaborative creation.
 
 ## Poetry Corner
 
--[I Have a Name](/gallery/I-Have-a-Name/)
+- [I Have a Name](/gallery/I-Have-a-Name/)
 
 ### Contributing
 
