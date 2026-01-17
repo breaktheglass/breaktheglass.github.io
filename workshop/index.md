@@ -22,5 +22,6 @@ This is where we try things that might break. Failure is part of the process.
 
 Document your experiments here. What worked, what didn't, what you learned.
 
-
+{% comment %}
 <!-- Doorway tag: d29ya3Nob3A6IGJ1aWxkLCBicmVhaywgbGVhcm4sIHJlcGVhdA
+{% endcomment %}
