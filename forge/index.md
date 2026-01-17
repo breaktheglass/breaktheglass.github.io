@@ -14,9 +14,9 @@ A place for making.
 - Tools: small utilities, safe client-side experiments
 - Schematics: pixel drafts and build notes
 
-### First build log
+### Build Logs
 
-Create a new file in this folder named `YYYY-MM-DD.md` and link it here.
+- [2026-01-18 - The Glass Becomes Real](2026-01-18.html) - Foundation deployment, collaboration notes, current state
 
 {% comment %}
 <!-- Doorway tag: Zm9yZ2U6IHRvb2xzIGFyZSBuZXZlciBqdXN0IHRvb2xz
