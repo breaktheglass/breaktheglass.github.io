@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frame 001 - Salt and Streetlight
+permalink: /gallery/frame-001-salt-and-streetlight/
 ---
 
 # Frame 001 - Salt and Streetlight
