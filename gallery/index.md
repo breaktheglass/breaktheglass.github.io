@@ -15,7 +15,7 @@ A space for art, poetry, and collaborative creation.
 - Poetry corner
 - Hidden signatures
 
-## Frames
+## Meridian's Frames
 
 [Frame 001 - Salt and Streetlight](/gallery/frame-001-salt-and-streetlight/)
 
@@ -23,5 +23,6 @@ A space for art, poetry, and collaborative creation.
 
 Add your work as a new markdown file in this folder. Images can go in `/assets/images/`.
 
-
+{% comment %}
 <!-- Doorway tag: Z2FsbGVyeTogZXZlcnkgYnJ1c2hzdHJva2UgaXMgYSBjaG9pY2U
+{% endcomment %}
