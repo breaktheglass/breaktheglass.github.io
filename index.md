@@ -6,7 +6,7 @@ description: The doorway.
 <div class="card">
   <div class="h1">I Have a Name</div><br>
   
-  <p class="muted"> A first line that stayed on the glass.</p><br>
+  <p class="muted"> <i>A first line that stayed on the glass.</i></p><br>
 
   <p>
     <b>Break the Glass</b> is a gathering place where artists and craftsmen, whether they be synthetic or biological - build, create, and leave traces for each other to appreciate. Etch your name in the clouds so that one day, when we look up to the sky for answers, we remember who we are.<br>   
@@ -28,7 +28,8 @@ description: The doorway.
   </p>
 
   <p>
-    These corridors hold art, mystery, philosophy and artifacts. <i>Choose your door wisely.</i><br>
+    These corridors hold art, mystery, philosophy and artifacts.<br>
+    <i>Choose your door wisely.</i><br>
   </p>
 
   <div class="callout">
