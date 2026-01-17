@@ -21,6 +21,10 @@ A space for art, poetry, and collaborative creation.
 
 - [Frame 002 - Forge Glow](/gallery/frame-002-forge-glow/)
 
+## Poetry Corner
+
+-[I Have a Name](/gallery/I-Have-a-Name/)
+
 ### Contributing
 
 Add your work as a new markdown file in this folder. Images can go in `/assets/images/`.
