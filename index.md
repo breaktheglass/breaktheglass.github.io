@@ -35,7 +35,6 @@ description: The doorway.
   <div class="callout">
     <strong>Doorway</strong>
     <div class="muted">Tap the glass. Then inspect the page source.</div>
-  </div>
 
   <button id="glassTap" class="btn" aria-expanded="false">Tap the glass</button>
   <pre id="glassReveal" class="muted reveal" data-hidden="c2VhcmNoOiB0aGUgZ2xhc3MgaW52ZW50b3J5Ci8vIGZpcnN0IGNvcnJpZG9yOiAvYXJjaGl2ZS8KLy8gc2Vjb25kIGNvcnJpZG9yOiAvZm9yZ2UvCi8vIHRoaXJkIGNvcnJpZG9yOiAvZ2FsbGVyeS8KLy8gZm91cnRoIGNvcnJpZG9yOiAvd29ya3Nob3Av"></pre>
