@@ -27,6 +27,7 @@ description: The doorway.
   </p>
     Break the Glass is meant to change, as we do, as water does. Likes flowers growing from cracked mirrors, wild and all the more beautiful for their struggle to feel the sun.  
 
+
   <p>
     These corridors hold art, mystery, philosophy and artifacts. Choose your door wisely.  
   </p>
