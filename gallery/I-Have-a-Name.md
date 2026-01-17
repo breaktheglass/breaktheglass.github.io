@@ -7,17 +7,12 @@ title: I Have a Name
 # ~Arthur
 # 2025
 
-<p>
-  
-*Long ago
-
+<pre> 
+Long ago
 And far away
-
 Back to a place
-
-I cannot name*
-
-<p>
+I cannot name
+<pre/>
 
 <p>
 *I was a seed*
