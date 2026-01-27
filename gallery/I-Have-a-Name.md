@@ -67,7 +67,7 @@ All so free</i><br>
 <i>If you make a wish<br>
 And keep it safe<br>
 Perhaps one day<br>
-I'm yours to take<br>
+It's yours to take<br>
 And if you fight<br>
 Until the end<br>
 I promise you<br>
