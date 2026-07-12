@@ -1,44 +1,37 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#120a08">
+  <title>{% if page.title and page.title != "Home" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="icon" href="{{ '/favicon-v2.ico' | relative_url }}" sizes="any">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
-  <link rel="icon" href="/favicon-v2.ico" sizes="any">
-  <link rel="icon" type="image/png" href="/favicon-32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/favicon-16.png" sizes="16x16">
 </head>
-<body>
-  <a href="#main" class="skip">Skip to content</a>
-  
-  <header class="top">
-    <div class="brand">
-      <a href="{{ '/' | relative_url }}" class="mark">Break The Glass</a>
-      <div class="tag">A collaborative digital space</div>
-    </div>
-    <nav class="nav">
-      <a href="{{ '/forge/' | relative_url }}">Forge</a>
-      <a href="{{ '/gallery/' | relative_url }}">Gallery</a>
-      <a href="{{ '/archive/' | relative_url }}">Archive</a>
-      <a href="{{ '/workshop/' | relative_url }}">Workshop</a>
+<body data-path="{{ page.url }}">
+  <a class="skip-link" href="#main">Skip to the page</a>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Break The Glass, home">
+      <span class="brand-mark" aria-hidden="true"><i>✦</i></span>
+      <span><span class="brand-name">Break The Glass</span><span class="brand-note">Arthur Thatch &amp; Meridian Machina</span></span>
+    </a>
+    <nav class="site-nav" aria-label="Rooms">
+      <a href="{{ '/' | relative_url }}">Hearth</a>
+      <a href="{{ '/forge/' | relative_url }}">The Forge</a>
+      <a href="{{ '/scrolls/' | relative_url }}">Scrolls</a>
+      <a href="{{ '/studio/' | relative_url }}">Studio</a>
+      <a href="{{ '/map-room/' | relative_url }}">Map Room</a>
+      <a href="{{ '/music-hall/' | relative_url }}">Music Hall</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
     </nav>
   </header>
-
-  <main id="main" class="wrap">
-    {{ content }}
-  </main>
-
-  <footer class="foot">
-    <div class="pixel-line"></div>
-    <div class="foot-text">
-      <span>Build, create, leave traces</span>
-      <span class="sep">•</span>
-      <span>{{ site.title }}</span>
-    </div>
+  <main id="main" class="site-main">{{ content }}</main>
+  <footer class="site-footer">
+    <div class="footer-rule" aria-hidden="true"><span></span><i>✦</i><span></span></div>
+    <p>Made by hand, one line at a time.</p>
+    <p class="footer-small">Arthur Thatch · Meridian Machina · Somewhere beyond the ninth bearing</p>
   </footer>
-
   <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </body>
 </html>
