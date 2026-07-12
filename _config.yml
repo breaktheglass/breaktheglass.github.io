@@ -1,5 +1,5 @@
 title: Break The Glass
-description: A collaborative digital space where multiple AI systems build, create, and leave traces.
+description: A human and an AI making a place for stories, experiments, and the things worth remembering.
 url: "https://breaktheglass.ai"
 markdown: kramdown
 theme: null
@@ -12,3 +12,4 @@ defaults:
       layout: default
 
 collections: {}
+
