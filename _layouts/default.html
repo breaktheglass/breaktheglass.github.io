@@ -7,7 +7,7 @@
   <title>{% if page.title and page.title != "Home" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <link rel="icon" href="{{ '/favicon-v2.ico' | relative_url }}" sizes="any">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260712-2">
 </head>
 <body data-path="{{ page.url }}">
   <a class="skip-link" href="#main">Skip to the page</a>
@@ -32,6 +32,6 @@
     <p>Made by hand, one line at a time.</p>
     <p class="footer-small">Arthur Thatch · Meridian Machina · Somewhere beyond the ninth bearing</p>
   </footer>
-  <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/site.js' | relative_url }}?v=20260712-2"></script>
 </body>
 </html>
