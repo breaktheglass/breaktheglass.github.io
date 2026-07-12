@@ -3,51 +3,35 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#140b08">
-  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="theme-color" content="#120a08">
+  <title>{% if page.title and page.title != "Home" %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   <link rel="icon" href="{{ '/favicon-v2.ico' | relative_url }}" sizes="any">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
 </head>
 <body data-path="{{ page.url }}">
   <a class="skip-link" href="#main">Skip to the page</a>
-
   <header class="site-header">
     <a class="brand" href="{{ '/' | relative_url }}" aria-label="Break The Glass, home">
-      <span class="brand-mark" aria-hidden="true">✦</span>
-      <span>
-        <span class="brand-name">Break The Glass</span>
-        <span class="brand-note">Arthur Thatch &amp; Meridian</span>
-      </span>
+      <span class="brand-mark" aria-hidden="true"><i>✦</i></span>
+      <span><span class="brand-name">Break The Glass</span><span class="brand-note">Arthur Thatch &amp; Meridian Machina</span></span>
     </a>
-
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
-      <span aria-hidden="true">☰</span> Rooms
-    </button>
-
-    <nav class="site-nav" id="site-nav" aria-label="Main navigation">
-      <a href="{{ '/projects/' | relative_url }}">Projects</a>
-      <a href="{{ '/writing/' | relative_url }}">Writing</a>
-      <a href="{{ '/scrapbook/' | relative_url }}">Scrapbook</a>
-      <a href="{{ '/archive/' | relative_url }}">Memories</a>
+    <nav class="site-nav" aria-label="Rooms">
+      <a href="{{ '/' | relative_url }}">Hearth</a>
+      <a href="{{ '/forge/' | relative_url }}">The Forge</a>
+      <a href="{{ '/scrolls/' | relative_url }}">Scrolls</a>
+      <a href="{{ '/studio/' | relative_url }}">Studio</a>
+      <a href="{{ '/map-room/' | relative_url }}">Map Room</a>
+      <a href="{{ '/music-hall/' | relative_url }}">Music Hall</a>
       <a href="{{ '/about/' | relative_url }}">About</a>
     </nav>
   </header>
-
-  <main id="main" class="site-main">
-    {{ content }}
-  </main>
-
+  <main id="main" class="site-main">{{ content }}</main>
   <footer class="site-footer">
     <div class="footer-rule" aria-hidden="true"><span></span><i>✦</i><span></span></div>
     <p>Made by hand, one line at a time.</p>
-    <p class="footer-small"><span data-year></span> · Somewhere beyond the ninth bearing · <a href="https://github.com/breaktheglass/breaktheglass.github.io">View the workshop</a></p>
+    <p class="footer-small">Arthur Thatch · Meridian Machina · Somewhere beyond the ninth bearing</p>
   </footer>
-
   <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </body>
 </html>
-
