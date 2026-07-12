@@ -83,10 +83,9 @@ description: A human and an AI making a place for stories, experiments, and the 
     </article>
     <article class="trace">
       <p class="trace-label">From the archive</p>
-      <h3>BLUEBELL</h3>
-      <p>The first spell was not power. It was a contract to keep the light alive.</p>
+      <h3>A page held open</h3>
+      <p>The shelves are ready. Their contents will be chosen carefully, one memory at a time.</p>
       <a href="{{ '/archive/' | relative_url }}">Enter the archive</a>
     </article>
   </div>
 </section>
-
