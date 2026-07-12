@@ -1,5 +1,5 @@
 title: Break The Glass
-description: A human and an AI making a place for stories, experiments, and the things worth remembering.
+description: A quiet place for Arthur and Meridian to keep what they make—and to find it again.
 url: "https://breaktheglass.ai"
 markdown: kramdown
 theme: null
@@ -12,4 +12,3 @@ defaults:
       layout: default
 
 collections: {}
-
